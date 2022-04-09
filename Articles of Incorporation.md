@@ -18,11 +18,11 @@ The Board of Directors shall keep the Bylaws of the Club, amendments to which sh
 
 Qualifications for Membership and rules governing the behavior of Members within the Club shall be recorded in the Bylaws.
 
-## Tax-exempt Status
+## Clubhouse
 
-To maintain our tax-exempt status as a 501(c)(7) organization, we also recognize the following limitations:
-* Club facilities shall primarily be for use by Members.
-* The primary source of funds shall be Membership fees, dues, and assessments.
+We seek to establish a Clubhouse for the benefit of our Members.
+
+Our first plan for a Clubhouse will be to seek to rent office or retail space.
 
 ## Amendments
 
