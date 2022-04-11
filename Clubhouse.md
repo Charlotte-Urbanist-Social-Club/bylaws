@@ -10,4 +10,5 @@ near either the Blue Line or Gold Line
 
 | Item | Square feet |
 |------|------------:|
-| Table for six | 100 |
+| Space to play Bridge | 100 |
+| Table for six | 120 |
