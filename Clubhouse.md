@@ -10,5 +10,6 @@ near either the Blue Line or Gold Line
 
 | Item | Square feet |
 |------|------------:|
+| Fire occupancy, assembly with tables and chairs, per person | 15 |
 | Space to play Bridge | 100 |
 | Table for six | 120 |
