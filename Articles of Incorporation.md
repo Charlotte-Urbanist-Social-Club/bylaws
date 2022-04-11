@@ -18,12 +18,6 @@ The Board of Directors shall keep the Bylaws of the Club, amendments to which sh
 
 Qualifications for Membership and rules governing the behavior of Members within the Club shall be recorded in the Bylaws.
 
-## Clubhouse
-
-We seek to establish a Clubhouse for the benefit of our Members.
-
-Our first plan for a Clubhouse will be to seek to rent office or retail space.
-
 ## Amendments
 
 Amendments to these Articles of Incorporation shall require an affirmative vote by a majority of Directors and by two-thirds of the Members of the Club.
