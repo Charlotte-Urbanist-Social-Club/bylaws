@@ -1,5 +1,7 @@
 ## 501(c)(7)
 
+[IRS](https://www.irs.gov/charities-non-profits/other-non-profits/social-clubs)
+
 To maintain our tax-exempt status as a 501(c)(7) organization, the Club has the following limitations:
 
 * Club facilities shall primarily be for use by Members.
