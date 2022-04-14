@@ -13,3 +13,19 @@ near either the Blue Line or Gold Line
 | Fire occupancy, assembly with tables and chairs, per person | 15 |
 | Space to play Bridge | 100 |
 | Table for six | 120 |
+
+| Square footage | Fire safety capacity |
+|------:|-------:|
+| 800 | 53 |
+| 1,000 | 66 |
+
+## Potential Sites
+
+### Gateway West
+
+* Johnson & Wales Way, btwn W Trade St and W 4th St
+* 800 sqft retail
+* Large windows with lots of natural light
+* Gateway neighborhood
+* ~550ft walk from Gold Line Irwin Ave streetcar stop
+* Bus connections to Uptown and express buses to Independence Blvd, Rhea Rd, and Fort Mill
