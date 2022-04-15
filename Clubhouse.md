@@ -6,6 +6,8 @@ Our first plan for a Clubhouse will be to seek to rent office or retail space
 within Route 4 of Charlotte
 near either the Blue Line or Gold Line
 
+⚠️ No gambling allowed in the clubhouse or at Club events.
+
 ## Space Requirements
 
 | Item | Square feet |
