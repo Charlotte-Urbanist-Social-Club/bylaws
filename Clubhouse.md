@@ -31,3 +31,11 @@ near either the Blue Line or Gold Line
 * Gateway neighborhood
 * ~550ft walk from Gold Line Irwin Ave streetcar stop
 * Bus connections to Uptown and express buses to Independence Blvd, Rhea Rd, and Fort Mill
+
+### Centro on the Square
+
+* West Blvd at S Tryon St
+* Bus stops for routes 10 and 16
+* South End, short walk to East/West Blvd Blue Line station
+* Smallest space ~790 sqft retail
+* Rent unknown at this time
