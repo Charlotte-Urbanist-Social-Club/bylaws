@@ -23,6 +23,12 @@ near either the Blue Line or Gold Line
 
 ## Potential Sites
 
+### Hygge Co-working Meeting Space
+
+* 809 Westmere Ave (or one of three other locations in Charlotte)
+* Meeting space is $40/hr (or $30/hr for non-profits, but need to verify we meet their requirements)
+* Meeting space for up to 24 people, depending on availability
+
 ### Gateway West
 
 * Johnson & Wales Way, btwn W Trade St and W 4th St
