@@ -37,7 +37,29 @@ and the length of term they shall serve.
 
 ## Membership
 
-Members shall be required to pay a regular duty to maintain Active Membership within the Club.
+### Individual Membership
+
+Individuals may become Members of the Club and enjoy the right to vote in Club elections as long as they maintain Active Membership.
+
+### Corporate Membership and Associates
+
+Corporations may join the Club as a Member.
+Corporate Members will be given a limited number of Associate positions to give to individuals associated with the Corporation.
+
+Associates are individuals who enjoy the benefit of the Corporation's Membership without needing to maintain an individual Membership.
+
+Corporate Associates shall elect from amongst themselves one Corporate Delegate, to serve a term of one year.
+Each Delegate shall act as representative of their Corporation's Membership to the Club and shall be given one vote in all Club elections on behalf of the Corporation and their Associates.
+
+Associates shall agree to follow all rules and Bylaws of the Club
+and may have their Association terminated by the Board of Directors or the Corporation, or their Corporate Delegate, at any time.
+
+No individual Member of the Club may also be be a Corporate Associate or Corporate Delegate.
+Any Associate may apply for their own individual Membership, and in doing so gives up their position as an Associate.
+
+### Further Rules of Qualifications
+
+Members shall be required to pay a regular duty to maintain active Membership within the Club.
 
 Qualifications for Membership and rules governing the behavior of Members within the Club shall be further refined in the Bylaws.
 
