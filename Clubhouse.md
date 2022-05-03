@@ -23,11 +23,11 @@ near either the Blue Line or Gold Line
 
 ## Potential Sites
 
-### Hygge Co-working Meeting Space
+### Co-working Meeting Space
 
-* 809 Westmere Ave (or one of three other locations in Charlotte)
-* Meeting space is $40/hr (or $30/hr for non-profits, but need to verify we meet their requirements)
-* Meeting space for up to 24 people, depending on availability
+* Multiple locations throughout Uptown, South End, and nearby neighborhoods.
+* Meeting space as low as $20/hr.
+* Time can accommodate up to 24 people, depending on availability.
 
 ### Gateway West
 
@@ -38,10 +38,9 @@ near either the Blue Line or Gold Line
 * ~550ft walk from Gold Line Irwin Ave streetcar stop
 * Bus connections to Uptown and express buses to Independence Blvd, Rhea Rd, and Fort Mill
 
-### Centro on the Square
+### Holiday Inn Express, South End
 
-* West Blvd at S Tryon St
-* Bus stops for routes 10 and 16
-* South End, short walk to East/West Blvd Blue Line station
-* Smallest space 495 sqft retail
-* Rent unknown at this time
+* W Kingston Ave near S Tryon St
+* Near bus stops for routes 10 and 16
+* Short walk to East/West Blvd Blue Line station
+* Monthly rent unknown at this time
