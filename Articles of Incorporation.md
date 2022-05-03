@@ -14,11 +14,28 @@ The presence of more than half of the Directors shall be necessary to form a quo
 
 The Board of Directors shall keep the Bylaws of the Club, amendments to which shall require a majority vote of the Directors present at a meeting.
 
-## Membership
+## Officers
 
-Membership shall be open to any adult living in or near Charlotte, NC
-who cares to make Charlotte a better place to live
-and is open to free discussions about such.
+The Board of Directors shall have sole authority to appoint and terminate the following Officers at their discretion:
+
+* Chief Executive Officer to run the day-to-day affairs of the Club and the Clubhouse.
+
+* Treasurer to draft a yearly budget for approval by the Board of Directors to ensure the continued operation of the Club.
+
+* Chair of the Board, a Director
+  * to select the time and place of regular Board meetings,
+  * to call emergency meetings of the Board as necessary,
+    and
+  * to plan the agenda for the Board meetings.
+
+* Secretary, a Director, though not the Chair, to record and maintain the minutes of every Board meeting.
+
+The Board may designate in the Bylaws other Officer positions and their selection process,
+whether it be by appointment by the Board of Directors or by election by the Members,
+the qualifications and duties thereof,
+and the length of term they shall serve.
+
+## Membership
 
 Members shall be required to pay a regular duty to maintain Active Membership within the Club.
 
