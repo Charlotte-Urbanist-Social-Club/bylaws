@@ -1,6 +1,6 @@
 # Articles of Incorporation
 
-We hereby establish the Charlotte Urbanist Social Club for the benefit of the urbanists of Charlotte.
+We hereby establish the Charlotte Urbanist Social Club for the benefit of the Urbanists of Charlotte.
 We aim to provide a gathering place for our Members
 for recreational activities and discussions.
 
@@ -12,11 +12,21 @@ Directors shall be selected by and composed of Members of the Club.
 The Board of Directors shall meet, with the Officers of the Club, at least once in every three calendar month period to discuss the business of the Club.
 The presence of more than half of the Directors shall be necessary to form a quorum.
 
-## Bylaws
-
 The Board of Directors shall keep the Bylaws of the Club, amendments to which shall require a majority vote of the Directors present at a meeting.
 
-Qualifications for Membership and rules governing the behavior of Members within the Club shall be recorded in the Bylaws.
+## Membership
+
+Membership shall be open to any adult living in or near Charlotte, NC
+who cares to make Charlotte a better place to live
+and is open to free discussions about such.
+
+Members shall be required to pay a regular duty to maintain Active Membership within the Club.
+
+Qualifications for Membership and rules governing the behavior of Members within the Club shall be further refined in the Bylaws.
+
+## Nondiscrimination Policy
+
+Membership in the Club, and the appointment to any Office of the Club, shall not be denied or abridged by race, color, ethnicity, religion, sex, gender, sexual orientation, gender identity, ancestry, national origin, nationality, citizenship, or disability status, and cannot be denied to anyone eighteen years of age or older on account of age.
 
 ## Amendments
 
