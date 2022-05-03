@@ -6,8 +6,8 @@ The goal is to be casual and open, but not needlessly revealing. We are a casual
 
 * Men must wear a shirt with sleeves. Women must wear a shirt/top with sleeves or a collar.
   * A t-shirt is acceptable.
-* Pants, shorts, or skirts that go down to the top of the knee are required.
-  * Shorts or skirts no shorter than 6 inches above the knees are allowed when wearing stockings, pantyhose, or leggings.
+* Pants, shorts, or skirts that are no shorter than 6 inches above the top of the knee are required.
+  * Shorter shorts or skirts are allowed when worn over stockings, pantyhose, leggings, or pants.
   * Jeans are acceptable.
   * Leggings alone do not count as pants.
 * No exposed midriff.
