@@ -1,15 +1,9 @@
 # Dress Code
 
-All members and their guests must follow the dress code at all times while visiting the club.
+All Members and their guests must follow the dress code at all times while visiting the Club, the Clubhouse, and any Club events.
 
 The goal is to be casual and open, but not needlessly revealing. We are a casual social club, not a nightclub.
 
-* Men must wear a shirt with sleeves. Women must wear a shirt/top with sleeves or a collar.
-  * A t-shirt is acceptable.
-* Pants, shorts, or skirts that are no shorter than 6 inches above the top of the knee are required.
-  * Shorter shorts or skirts are allowed when worn over stockings, pantyhose, leggings, or pants.
-  * Jeans are acceptable.
-  * Leggings alone do not count as pants.
+* Clean clothes without holes.
 * No exposed midriff.
-* Dresses are acceptable if they meet the above requirements for tops and skirts.
 * Shoes required. No flip flops.
