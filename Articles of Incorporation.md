@@ -46,16 +46,16 @@ and the length of term they shall serve.
 
 ## 3. Membership
 
-### Individual Membership
+### A. Individual Membership
 
 Individuals may become Members of the Club and enjoy the right to vote in Club elections as long as they maintain Active Membership.
 
-### Corporate Membership and Associates
+### B. Corporate Membership and Associates
 
 Corporations may join the Club as a Member.
 Corporate Members will be given a limited number of Associate positions to give to individuals associated with the Corporation.
 
-Associates are individuals who enjoy the benefit of the Corporation's Membership without needing to maintain an individual Membership.
+Associates are individuals who enjoy some benefit of the Corporation's Membership without needing to maintain an individual Membership.
 
 Corporate Associates shall elect from amongst themselves one Corporate Delegate, to serve a term of one year.
 Each Delegate shall act as representative of their Corporation's Membership to the Club and shall be given one vote in all Club elections on behalf of the Corporation and their Associates.
@@ -66,11 +66,13 @@ and may have their Association terminated by the Board of Directors or the Corpo
 No individual Member of the Club may also be be a Corporate Associate or Corporate Delegate.
 Any Associate may apply for their own individual Membership, and in doing so gives up their position as an Associate.
 
-### Further Rules of Qualifications
+### C. Further Rules of Qualifications
 
-Members shall be required to pay a regular duty to maintain active Membership within the Club.
+1. Members shall be required to pay a regular Membership Due to maintain active Membership within the Club, which shall be stated clearly in the Bylaws.
 
-Qualifications for Membership and rules governing the behavior of Members within the Club shall be further refined in the Bylaws.
+1. Qualifications for Membership and rules governing the behavior of Members within the Club shall be further refined in the Bylaws.
+
+1. Division of Membership into different Classes with different levels of benefits may be declared and outlined in the Bylaws along with their qualifications and commensurate Membership Dues owed to the Club.
 
 ## 4. Nondiscrimination Policy
 
