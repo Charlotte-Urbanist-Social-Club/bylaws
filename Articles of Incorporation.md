@@ -4,17 +4,26 @@ We hereby establish the Charlotte Urbanist Social Club for the benefit of the Ur
 We aim to provide a gathering place for our Members
 for recreational activities and discussions.
 
-## Board of Directors
+## 1. Board of Directors
 
-The business affairs of the Club shall be managed by its Board of Directors and Officers.
-Directors shall be selected by and composed of Members of the Club.
+1. The business affairs of the Club shall be managed by its Board of Directors.
+The Board shall consist of an odd number of Directors elected by the Members of the Club.
 
-The Board of Directors shall meet, with the Officers of the Club, at least once in every three calendar month period to discuss the business of the Club.
+1. Upon incorporation of the Club, the Incorporators shall take the position of Directors for a term of no more than one year.
+
+1. Immediately after the Board of Directors shall be assembled in consequence of the first election, they shall be divided as equally as may be into two Classes.
+The Directors with the most votes shall be of the first Class and shall vacate their seats at the expiration of the second year,
+the remainder of the Directors shall be of the second Class and shall vacate their seats at the expiration of the first year,
+so that one half may be chosen every year;
+
+1. If Vacancies happen by resignation or otherwise, the Board of Directors may make temporary appointments until the next election by the Members.
+
+1. The Board of Directors shall meet, with the Officers of the Club, at least once in every three calendar month period to discuss the business of the Club.
 The presence of more than half of the Directors shall be necessary to form a quorum.
 
-The Board of Directors shall keep the Bylaws of the Club, amendments to which shall require a majority vote of the Directors present at a meeting.
+1. The Board of Directors shall keep the Bylaws of the Club, amendments to which shall require a majority vote of the Directors present at a meeting.
 
-## Officers
+## 2. Officers
 
 The Board of Directors shall have sole authority to appoint and terminate the following Officers at their discretion:
 
@@ -35,7 +44,7 @@ whether it be by appointment by the Board of Directors or by election by the Mem
 the qualifications and duties thereof,
 and the length of term they shall serve.
 
-## Membership
+## 3. Membership
 
 ### Individual Membership
 
@@ -63,10 +72,10 @@ Members shall be required to pay a regular duty to maintain active Membership wi
 
 Qualifications for Membership and rules governing the behavior of Members within the Club shall be further refined in the Bylaws.
 
-## Nondiscrimination Policy
+## 4. Nondiscrimination Policy
 
 Membership in the Club, and the appointment to any Office of the Club, shall not be denied or abridged by race, color, ethnicity, religion, sex, gender, sexual orientation, gender identity, ancestry, national origin, nationality, citizenship, or disability status, and cannot be denied to anyone eighteen years of age or older on account of age.
 
-## Amendments
+## 5. Amendments
 
 Amendments to these Articles of Incorporation shall require an affirmative vote by a majority of Directors and by two-thirds of the Members of the Club.
