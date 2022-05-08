@@ -14,12 +14,23 @@ The Board shall consist of an odd number of Directors elected by the Members of 
 1. Immediately after the Board of Directors shall be assembled in consequence of the first election, they shall be divided as equally as may be into two Classes.
 The Directors with the most votes shall be of the first Class and shall vacate their seats at the expiration of the second year,
 the remainder of the Directors shall be of the second Class and shall vacate their seats at the expiration of the first year,
-so that one half may be chosen every year;
+so that one half may be chosen every year.
 
 1. If Vacancies happen by resignation or otherwise, the Board of Directors may make temporary appointments until the next election by the Members.
 
 1. The Board of Directors shall meet, with the Officers of the Club, at least once in every three calendar month period to discuss the business of the Club.
 The presence of more than half of the Directors shall be necessary to form a quorum.
+
+1. The Board of Directors shall appoint from amongst them one Director to be Chair of the Board, whose responsibilities shall include
+  * to select the time and place of regular Board meetings,
+  * to call emergency meetings of the Board as necessary,
+    and
+  * to plan with the CEO the agenda for the Board meetings.
+
+1. The Board of Directors shall appoint from amongst them another Director to be the Secretary of the Club, whose responsibilities shall include
+  * to record and maintain the minutes of every Board meeting
+    and
+  * maintain records of active Members.
 
 1. The Board of Directors shall keep the Bylaws of the Club, amendments to which shall require a majority vote of the Directors present at a meeting.
 
@@ -27,21 +38,13 @@ The presence of more than half of the Directors shall be necessary to form a quo
 
 The Board of Directors shall have sole authority to appoint and terminate the following Officers at their discretion:
 
-* Chief Executive Officer to run the day-to-day affairs of the Club and the Clubhouse.
+* Chief Executive Officer (CEO) to run the day-to-day affairs of the Club and the Clubhouse.
 
 * Treasurer to draft a yearly budget for approval by the Board of Directors to ensure the continued operation of the Club.
 
-* Chair of the Board, a Director
-  * to select the time and place of regular Board meetings,
-  * to call emergency meetings of the Board as necessary,
-    and
-  * to plan the agenda for the Board meetings.
-
-* Secretary, a Director, though not the Chair, to record and maintain the minutes of every Board meeting.
-
 The Board may designate in the Bylaws other Officer positions and their selection process,
-whether it be by appointment by the Board of Directors or by election by the Members,
-the qualifications and duties thereof,
+whether it be by appointment by the Board of Directors or an Officer of Committee of the Club or by election by the Members of the Club,
+as well as the qualifications and duties thereof
 and the length of term they shall serve.
 
 ## 3. Membership
@@ -52,18 +55,19 @@ Individuals may become Members of the Club and enjoy the right to vote in Club e
 
 ### B. Corporate Membership and Associates
 
-Corporations may join the Club as a Member.
+1. Corporations may join the Club as a Member.
 Corporate Members will be given a limited number of Associate positions to give to individuals associated with the Corporation.
 
-Associates are individuals who enjoy some benefit of the Corporation's Membership without needing to maintain an individual Membership.
+1. Associates are individuals who enjoy some benefit of the Corporation's Membership without needing to maintain an individual Membership.
 
-Corporate Associates shall elect from amongst themselves one Corporate Delegate, to serve a term of one year.
+1. Corporate Associates shall elect from amongst themselves one Corporate Delegate, to serve a term of one year.
 Each Delegate shall act as representative of their Corporation's Membership to the Club and shall be given one vote in all Club elections on behalf of the Corporation and their Associates.
 
-Associates shall agree to follow all rules and Bylaws of the Club
-and may have their Association terminated by the Board of Directors or the Corporation, or their Corporate Delegate, at any time.
+1. Associates shall agree to follow all rules and Bylaws of the Club
+and may have their Association terminated at any time
+by the Board of Directors or CEO of this Club or by their Corporate Delegate or Corporation.
 
-No individual Member of the Club may also be be a Corporate Associate or Corporate Delegate.
+1. No individual Member of the Club may also be be a Corporate Associate or Corporate Delegate.
 Any Associate may apply for their own individual Membership, and in doing so gives up their position as an Associate.
 
 ### C. Further Rules of Qualifications
@@ -80,4 +84,16 @@ Membership in the Club, and the appointment to any Office of the Club, shall not
 
 ## 5. Amendments
 
-Amendments to these Articles of Incorporation shall require an affirmative vote by a majority of Directors and by two-thirds of the Members of the Club.
+Amendments to these Articles of Incorporation shall require an affirmative vote by a majority of Directors and by two-thirds of the Active Members of the Club.
+
+## 6. Dissolution
+
+The Club may be dissolved following an affirmative vote of two-thirds of the Board of Directors and three-fourths of the Active Members of the Club.
+Upon the dissolution of the Club, assets shall be distributed by the Board of Directors for one or more 501(c)(3) organizations.
+Any assets not so disposed shall be disposed of by a court of competent jurisdiction of the county in which the principal office of the Club is located.
+Disposal shall be made exclusively for public purposes promoting urbanist ideology and public safety, or be made to such organization or organizations as the court shall determine to be organized for such purposes.
+
+## 7. Conversion of Corporate Status
+
+The Club may be converted to a stock-ownership corporation following an affirmative vote of two-thirds of the Board of Directors and three-fourths of the Active Members of the Club.
+Upon conversion, each Active Member shall receive one stock of ownership in the corporation.
