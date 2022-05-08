@@ -22,15 +22,15 @@ so that one half may be chosen every year.
 The presence of more than half of the Directors shall be necessary to form a quorum.
 
 1. The Board of Directors shall appoint from amongst them one Director to be Chair of the Board, whose responsibilities shall include
-  * to select the time and place of regular Board meetings,
-  * to call emergency meetings of the Board as necessary,
-    and
-  * to plan with the CEO the agenda for the Board meetings.
+    * to select the time and place of regular Board meetings,
+    * to call emergency meetings of the Board as necessary,
+      and
+    * to plan with the CEO the agenda for the Board meetings.
 
 1. The Board of Directors shall appoint from amongst them another Director to be the Secretary of the Club, whose responsibilities shall include
-  * to record and maintain the minutes of every Board meeting
-    and
-  * maintain records of active Members.
+    * to record and maintain the minutes of every Board meeting
+      and
+    * maintain records of active Members.
 
 1. The Board of Directors shall keep the Bylaws of the Club, amendments to which shall require a majority vote of the Directors present at a meeting.
 
