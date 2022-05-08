@@ -2,6 +2,8 @@
 
 The Club shall have the following Officers:
 
+## Chief Executive Officer (CEO)
+
 ## Treasurer
 
 The Board of Directors shall appoint, by simple majority, a Treasurer to serve an initial term of one year.
