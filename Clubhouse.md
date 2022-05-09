@@ -44,3 +44,15 @@ near either the Blue Line or Gold Line
 * Near bus stops for routes 10 and 16
 * Short walk to East/West Blvd Blue Line station
 * Monthly rent unknown at this time
+
+### Uptown Office
+
+* Numerous options
+    * 121 W Trade St
+    * 112 S Tryon St
+    * 402 W Trade St
+* Natural light may be lacking
+* Elevator access may be required
+* Limited street signage/visibility opportunity
+* May be a little more expensive than retail location, but more private
+* Central location
