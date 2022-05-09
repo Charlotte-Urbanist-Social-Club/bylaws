@@ -78,6 +78,8 @@ Any Associate may apply for their own individual Membership, and in doing so giv
 
 1. Division of Membership into different Classes with different levels of benefits may be declared and outlined in the Bylaws along with their qualifications and commensurate Membership Dues owed to the Club.
 
+1. The Board of Directors may, at their own discretion, suspend or terminate any individual or corporate Membership in the Club at any time.
+
 ## 4. Nondiscrimination Policy
 
 Membership in the Club, and the appointment to any Office of the Club, shall not be denied or abridged by race, color, ethnicity, religion, sex, gender, sexual orientation, gender identity, ancestry, national origin, nationality, citizenship, or disability status, and cannot be denied to anyone eighteen years of age or older on account of age.
