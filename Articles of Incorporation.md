@@ -43,7 +43,7 @@ The Board of Directors shall have sole authority to appoint and terminate the fo
 * Treasurer to draft a yearly budget for approval by the Board of Directors to ensure the continued operation of the Club.
 
 The Board may designate in the Bylaws other Officer positions and their selection process,
-whether it be by appointment by the Board of Directors or an Officer of Committee of the Club or by election by the Members of the Club,
+whether it be by appointment by the Board of Directors or an Officer or Committee of the Club or by election by the Members of the Club,
 as well as the qualifications and duties thereof
 and the length of term they shall serve.
 
