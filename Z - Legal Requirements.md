@@ -6,7 +6,7 @@ To maintain our tax-exempt status as a 501(c)(7) organization, the Club has the 
 
 * Club facilities shall primarily be for use by Members.
 
-* The primary source of funds shall be Membership fees, dues, and assessments.
+* The at least 65% of income shall be Membership fees, dues, and assessments.
 
 ## NC Statutes
 
