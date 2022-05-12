@@ -34,7 +34,10 @@ The presence of more than half of the Directors shall be necessary to form a quo
       and
     * maintain and authenticate records of the Club.
 
-1. The Board of Directors shall keep the Bylaws of the Club, amendments to which shall require a majority vote of the Directors present at a meeting.
+1. The Board of Directors shall keep the Bylaws of the Club.
+The Chair shall provide at least five days' written notice of any meeting of Directors at which an amendment is to be voted upon.
+The notice shall state that the purpose, or one of the purposes, of the meeting is to consider a proposed amendment to the Bylaws and contain a copy of the amendment.
+The amendment shall be approved by a majority of the Directors in office at the time the amendment is adopted.
 
 ## 2. Officers
 
