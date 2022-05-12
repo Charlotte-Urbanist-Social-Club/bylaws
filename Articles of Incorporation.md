@@ -91,16 +91,16 @@ Membership in the Club, and the appointment to any Office of the Club, shall not
 
 ## 5. Amendments
 
-Amendments to these Articles of Incorporation shall require an affirmative vote by a majority of Directors and by two-thirds of the Active Members of the Club.
+Amendments to these Articles of Incorporation shall require an affirmative vote of a majority of Directors and of two-thirds of the votes cast by Active Members of the Club.
 
 ## 6. Dissolution
 
-The Club may be dissolved following an affirmative vote of two-thirds of the Board of Directors and three-fourths of the Active Members of the Club.
+The Club may be dissolved following an affirmative vote of two-thirds of the Board of Directors and of three-fourths of the votes cast by Active Members of the Club.
 Upon the dissolution of the Club, assets shall be distributed by the Board of Directors for one or more 501(c)(3) organizations.
 Any assets not so disposed shall be disposed of by a court of competent jurisdiction of the county in which the principal office of the Club is located.
 Disposal shall be made exclusively for public purposes promoting urbanist ideology and public safety, or be made to such organization or organizations as the court shall determine to be organized for such purposes.
 
 ## 7. Conversion of Corporate Status
 
-The Club may be converted to a stock-ownership corporation following an affirmative vote of two-thirds of the Board of Directors and three-fourths of the Active Members of the Club.
+The Club may be converted to a stock-ownership corporation following an affirmative vote of two-thirds of the Board of Directors and of three-fourths of the votes cast by Active Members of the Club.
 Upon conversion, each Active Member shall receive one stock of ownership in the corporation.
