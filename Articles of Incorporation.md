@@ -8,8 +8,9 @@ for recreational activities and discussions.
 
 1. The business affairs of the Club shall be managed by its Board of Directors.
 The Board shall consist of an odd number of Directors elected by the Members of the Club.
+Every Director must be an Active Member of the Club at the time of the election and shall maintain their Active Membership as long as they serve as a Director.
 
-1. Upon incorporation of the Club, the Incorporators shall take the position of Directors for a term of no more than one year.
+1. Upon incorporation of the Club, the Incorporators shall take the positions of the Directors for a term of no more than one year.
 
 1. Immediately after the Board of Directors shall be assembled in consequence of the first election, they shall be divided as equally as may be into two Classes.
 The Directors with the most votes shall be of the first Class and shall vacate their seats at the expiration of the second year,
@@ -19,18 +20,19 @@ so that one half may be chosen every year.
 1. If Vacancies happen by resignation or otherwise, the Board of Directors may make temporary appointments until the next election by the Members.
 
 1. The Board of Directors shall meet, with the Officers of the Club, at least once in every three calendar month period to discuss the business of the Club.
-The presence of more than half of the Directors shall be necessary to form a quorum.
+The presence of more than half of the Directors shall be necessary to form a quorum at any meeting.
 
-1. The Board of Directors shall appoint from amongst them one Director to be Chair of the Board, whose responsibilities shall include
+1. The Board of Directors shall appoint from amongst themselves one Director to be Chair of the Board, whose responsibilities shall include
     * to select the time and place of regular Board meetings,
     * to call emergency meetings of the Board as necessary,
       and
     * to plan with the CEO the agenda for the Board meetings.
 
-1. The Board of Directors shall appoint from amongst them another Director to be the Secretary of the Club, whose responsibilities shall include
-    * to record and maintain the minutes of every Board meeting
+1. The Board of Directors shall appoint from amongst themselves another Director to be the Secretary of the Club, whose responsibilities shall include
+    * to record and maintain the minutes of the meetings of the Board of Directors and of the Members,
+    * maintain records of Active Members,
       and
-    * maintain records of active Members.
+    * maintain and authenticate records of the Club.
 
 1. The Board of Directors shall keep the Bylaws of the Club, amendments to which shall require a majority vote of the Directors present at a meeting.
 
