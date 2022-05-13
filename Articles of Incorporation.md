@@ -91,7 +91,9 @@ Membership in the Club, and the appointment to any Office of the Club, shall not
 
 ## 5. Amendments
 
-Amendments to these Articles of Incorporation shall require an affirmative vote of a majority of Directors and of two-thirds of the votes cast by Active Members of the Club.
+A majority vote of the Board of Directors shall be needed to change the Registered Agent of the Club or the Principal Office of the Club.
+
+Other amendments to these Articles of Incorporation shall require an affirmative vote of a majority of Directors and of two-thirds of the votes cast by Active Members of the Club.
 
 ## 6. Dissolution
 
