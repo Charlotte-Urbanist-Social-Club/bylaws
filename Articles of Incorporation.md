@@ -38,6 +38,7 @@ The presence of more than half of the Directors shall be necessary to form a quo
 The Chair shall provide at least five days' written notice of any meeting of Directors at which an amendment is to be voted upon.
 The notice shall state that the purpose, or one of the purposes, of the meeting is to consider a proposed amendment to the Bylaws and contain a copy of the amendment.
 The amendment shall be approved by a majority of the Directors in office at the time the amendment is adopted.
+(This section is largely to copy the requirements from [§ 55A-10-20](https://www.ncleg.net/enactedlegislation/statutes/html/bychapter/chapter_55a.html) of the North Carolina General Statutes.)
 
 ## 2. Officers
 
