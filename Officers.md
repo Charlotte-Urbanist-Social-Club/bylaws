@@ -4,6 +4,14 @@ The Club shall have the following Officers:
 
 ## Chief Executive Officer (CEO)
 
+The Board of Directors shall appoint, by simple majority, a Chief Executive Officer (CEO).
+The CEO shall be charged with the following duties and responsibilities:
+* to run the day-to-day affairs of the Club and the Clubhouse
+  and
+* to plan with the Chair of the Board of Directer the agenda for the Board meetings.
+
+The CEO serves at the pleasure of the Board of Directors and may be dismissed at their discretion.
+
 ## Treasurer
 
 The Board of Directors shall appoint, by simple majority, a Treasurer to serve an initial term of one year.
