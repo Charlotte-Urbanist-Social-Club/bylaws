@@ -25,14 +25,16 @@ The presence of more than half of the Directors shall be necessary to form a quo
 1. The Board of Directors shall appoint from amongst themselves one Director to be Chair of the Board, whose responsibilities shall include
     * to select the time and place of regular Board meetings,
     * to call emergency meetings of the Board as necessary,
+    * to plan with the CEO the agenda for the Board meetings,
       and
-    * to plan with the CEO the agenda for the Board meetings.
+    * other responsibilities as outlined in the Bylaws of the Club.
 
 1. The Board of Directors shall appoint from amongst themselves another Director to be the Secretary of the Club, whose responsibilities shall include
     * to record and maintain the minutes of the meetings of the Board of Directors and of the Members,
     * maintain records of Active Members,
+    * maintain and authenticate records of the Club,
       and
-    * maintain and authenticate records of the Club.
+    * other responsibilities as outlined in the Bylaws of the Club.
 
 1. The Board of Directors shall keep the Bylaws of the Club.
 The Chair shall provide at least five days' written notice of any meeting of Directors at which an amendment is to be voted upon.
@@ -47,6 +49,8 @@ The Board of Directors shall have sole authority to appoint and terminate the fo
 * Chief Executive Officer (CEO) to run the day-to-day affairs of the Club and the Clubhouse.
 
 * Treasurer to draft a yearly budget for approval by the Board of Directors to ensure the continued operation of the Club.
+
+Further qualifications, terms of office, duties, and responsibilities for these Officers shall be outlined in the Bylaws of the Club.
 
 The Board may designate in the Bylaws other Officer positions and their selection process,
 whether it be by appointment by the Board of Directors or an Officer or Committee of the Club or by election by the Members of the Club,
@@ -83,6 +87,8 @@ Any Associate may apply for their own individual Membership, and in doing so giv
 1. Qualifications for Membership and rules governing the behavior of Members within the Club shall be further refined in the Bylaws.
 
 1. Division of Membership into different Classes with different levels of benefits may be declared and outlined in the Bylaws along with their qualifications and commensurate Membership Dues owed to the Club.
+
+1. These Articles of Incorporation and the Bylaws of the Club shall form a contract with the Members of the Club pursuant to the applicable laws of the State of North Carolina.
 
 1. The Board of Directors may, at their own discretion pursuant to the Bylaws in a fair and reasonable manner, suspend or terminate any individual or corporate Membership in the Club at any time.
 
