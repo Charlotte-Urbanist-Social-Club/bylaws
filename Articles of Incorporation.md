@@ -15,7 +15,7 @@ Every Director must be an Active Member of the Club at the time of the election 
 1. Immediately after the Board of Directors shall be assembled in consequence of the first election, they shall be divided as equally as may be into two Classes.
 The Directors with the most votes shall be of the first Class and shall vacate their seats at the expiration of the second year,
 the remainder of the Directors shall be of the second Class and shall vacate their seats at the expiration of the first year,
-so that one half may be chosen every year.
+so that one half may be chosen every year and each may subsequently serve a term of two years.
 
 1. If Vacancies happen by resignation or otherwise, the Board of Directors may make temporary appointments until the next election by the Members.
 
@@ -84,7 +84,7 @@ Any Associate may apply for their own individual Membership, and in doing so giv
 
 1. Division of Membership into different Classes with different levels of benefits may be declared and outlined in the Bylaws along with their qualifications and commensurate Membership Dues owed to the Club.
 
-1. The Board of Directors may, at their own discretion, suspend or terminate any individual or corporate Membership in the Club at any time.
+1. The Board of Directors may, at their own discretion pursuant to the Bylaws in a fair and reasonable manner, suspend or terminate any individual or corporate Membership in the Club at any time.
 
 ## 4. Nondiscrimination Policy
 
