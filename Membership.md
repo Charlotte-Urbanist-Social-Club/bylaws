@@ -13,6 +13,8 @@ Membership in the Club, and the appointment to any Office of the Club, shall not
 
 1. The Board of Directors may, at their own discretion, suspend or terminate a person's membership in the Club.
 
-2. The person whose membership has been suspended or terminated may be given an opportunity to appeal the decision to the Board of Directors within three months following the Board's vote.
+    > ℹ️ Pursuant to NC General Statutes §55A-6-31, the Board must conduct these proceedings “in a manner that is fair and reasonable” and must be “carried out in good faith.”
+
+2. The person whose membership has been suspended or terminated may be given an opportunity to appeal the decision to the Board of Directors within one year following the Board's vote.
 
 3. If the person to be suspended or expelled is a Director, they cannot cast a vote on their own suspension or expulsion.
