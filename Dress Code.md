@@ -1,9 +1,5 @@
 # Dress Code
 
-All Members and their guests must follow the dress code at all times while visiting the Club, the Clubhouse, and any Club events.
+This is a social club for professionals. As such, member attire is expected to loosely adhere to a business casual dress code. Business casual attire includes but is not limited to: slacks, dresses, dress shirts, dress pants and skirts, pantsuits, blouses, sweaters, short sleeve shirts, and jeans. All footwear except flip flops are accepted.
 
-The goal is to be casual and open, but not needlessly revealing. We are a casual social club, not a nightclub.
-
-* Clean clothes without holes.
-* No exposed midriff.
-* Shoes required. No flip flops.
+Still not sure what to wear? If you'd wear it to an after-work mixer, it's probably business casual!
