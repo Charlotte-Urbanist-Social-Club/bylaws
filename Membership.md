@@ -1,5 +1,21 @@
 # Membership
 
+## Membership Tiers
+
+### Founding Member
+
+1. This tier is intended for Members who wish to help the Club get set up and enjoy extra privileges during its early formation. At an appropriate time, when the Club has enough Members to be self-sustaining, this membership tier should be discontinued.
+1. Members' votes for Board of Directors and Officers shall be weighted to count as four votes for each vote cast.
+1. Members wishing to join this tier shall be required to pay a one-time initiation fee of TBD.
+1. Monthly membership fee is $200.
+
+### Regular Member
+
+1. Regular Active Members that have been in good standing for three consecutive months shall enjoy the right to vote in elections for Board of Directors and Officers.
+1. New Members shall pay an initiation fee of TBD.
+1. Persons seeking to reestablish membership after having not paid for membership in the past nine months shall pay a re-initiation fee of TBD.
+1. Monthly membership fee is $50.
+
 ## Nondiscrimination Policy
 Membership in the Club, and the appointment to any Office of the Club, shall not be denied or abridged by race, color, ethnicity, religion, sex, gender, sexual orientation, gender identity, ancestry, national origin, nationality, citizenship, or disability status, and cannot be denied to anyone eighteen years of age or older on account of age.
 
