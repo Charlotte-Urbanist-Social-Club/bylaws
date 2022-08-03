@@ -1,7 +1,9 @@
 # Articles of Incorporation
 
-We hereby establish the Charlotte Urbanist Social Club for the benefit of the Urbanists of Charlotte.
-We aim to provide a gathering place for our Members
+We hereby establish the __Charlotte Urbanist Social Club__
+as a non-profit organization
+for the benefit of the Urbanists of Charlotte.
+Our primary endeavor is to provide a gathering place for our Members
 for recreational activities and discussions.
 
 ## 1. Board of Directors
@@ -96,20 +98,24 @@ Any Associate may apply for their own individual Membership, and in doing so giv
 
 Membership in the Club, and the appointment to any Office of the Club, shall not be denied or abridged by race, color, ethnicity, religion, sex, gender, sexual orientation, gender identity, ancestry, national origin, nationality, citizenship, or disability status, and cannot be denied to anyone eighteen years of age or older on account of age.
 
-## 5. Amendments
+## 5. Restrictions
+
+* No part of the net earnings of the Club may inure to the benefit of any person having a personal and private interest in the Club's activities.
+
+## 6. Amendments
 
 A majority vote of the Board of Directors shall be needed to change the Registered Agent of the Club or the Principal Office of the Club.
 
 Other amendments to these Articles of Incorporation shall require an affirmative vote of a majority of Directors and of two-thirds of the votes cast by Active Members of the Club.
 
-## 6. Dissolution
+## 7. Dissolution
 
 The Club may be dissolved following an affirmative vote of two-thirds of the Board of Directors and of three-fourths of the votes cast by Active Members of the Club.
 Upon the dissolution of the Club, assets shall be distributed by the Board of Directors for one or more 501(c)(3) organizations.
 Any assets not so disposed shall be disposed of by a court of competent jurisdiction of the county in which the principal office of the Club is located.
 Disposal shall be made exclusively for public purposes promoting urbanist ideology and public safety, or be made to such organization or organizations as the court shall determine to be organized for such purposes.
 
-## 7. Conversion of Corporate Status
+## 8. Conversion of Corporate Status
 
 The Club may be converted to a stock-ownership corporation following an affirmative vote of two-thirds of the Board of Directors and of three-fourths of the votes cast by Active Members of the Club.
 Upon conversion, each Active Member shall receive one stock of ownership in the corporation.
